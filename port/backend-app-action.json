@@ -7,7 +7,7 @@
         "repo-org": {
           "type": "string",
           "title": "Repo Org",
-          "default": "devopsparadox"
+          "default": "zarreomar"
         },
         "repo-user": {
           "type": "string",
@@ -66,7 +66,7 @@
     },
     "invocationMethod": {
       "type": "GITHUB",
-      "org": "devopsparadox",
+      "org": "zarreomar",
       "repo": "idp-demo",
       "workflow": "create-app-db.yaml",
       "omitPayload": true
